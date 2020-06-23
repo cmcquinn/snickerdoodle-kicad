@@ -1,0 +1,102 @@
+(kicad_sch (version 20200608) (host eeschema "5.99.0-unknown-ad69e44~101~ubuntu20.04.1")
+
+  (page 3 2)
+
+  (paper "B")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 85.09 64.77) (size 72.39 48.26)
+    (stroke (width 0.001) (type solid) (color 132 0 132 1))
+    (fill (color 255 255 255 0.0000))    (uuid a32a7713-aceb-431f-82b6-7899cc3ddd29)
+    (property "Sheet name" "Snickerdoodle" (id 0) (at 85.09 64.1341 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "snickerdoodle.kicad_sch" (id 1) (at 85.09 113.5389 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "JTAG" bidirectional (at 157.48 82.55 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (pin "SWD" bidirectional (at 157.48 85.09 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (pin "JA.~INT" input (at 157.48 88.9 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (pin "JC.~INT" input (at 157.48 93.98 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (pin "JB.~INT" input (at 157.48 91.44 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+  )
+
+  (symbol_instances
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/0109cf42-3133-42f6-973c-1300321b4dc6"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/03b7b80b-a7bb-4036-90e1-586a5b1258e5"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/04dd64b4-3b36-41d1-b028-2494509baee3"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/08fc91e0-d17b-4470-a036-ebc456aa575c"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/1138c638-1d4c-47e6-82bd-88a45eb895a2"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/3089b2c3-662c-4d0a-9585-dae07dfa01b2"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/34b52e9f-2866-4126-9df7-7fb23aaae287"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/485616be-00f5-4612-9b08-bbad43352e3c"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/763b31d8-d874-45bb-aee2-aae29ea7774e"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/76cca578-9d78-4f87-bd2b-d2db60cb20f8"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/912e424b-88a4-49b6-bccb-e0c55dd5390a"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/98a5fdfe-900b-4e5e-a7b9-3aae14bcaa54"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/a0fe4b1a-613d-4983-a1db-e5bcb782d807"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/cd66aca3-3023-490a-812a-a32c6ae271cb"
+      (reference "#PWR?") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/9079e718-c528-4c34-9bc2-2df9d91e9897"
+      (reference "P2") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/b4350ce4-c467-4977-b75f-44c7b07309d2"
+      (reference "P3") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/85a700d6-ea7d-479a-a753-71092107d4c3"
+      (reference "PA1") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/8ae1ba8c-1aad-4c93-9a9a-20ad4ed5f049"
+      (reference "PA2") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/4d3d3193-1091-428d-9a07-4be03349ff98"
+      (reference "PB1") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/b83d35df-9b4e-4530-bdd2-330f4aa26a60"
+      (reference "PB2") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/3ce0f11a-472c-4562-9a8e-983c883c794f"
+      (reference "PC1") (unit 1)
+    )
+  )
+)
