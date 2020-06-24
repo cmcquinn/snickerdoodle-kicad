@@ -514,7 +514,7 @@
     (add_net "ZYNQ_VIN")
   )
 
-  (module "Snickerdoodle:Snickerdoodle_Mounting_Hole" (layer "F.Cu") (tedit 5EF3D75F) (tstamp 19abbfb5-458e-445b-942a-a99824cae11f)
+  (module "Snickerdoodle:Snickerdoodle_Mounting_Hole" locked (layer "F.Cu") (tedit 5EF3D75F) (tstamp 19abbfb5-458e-445b-942a-a99824cae11f)
     (at 104.14 106.68)
     (descr "Snickerdoodle Mounting Hole 0.125 in")
     (tags "Snickerdoodle Mounting Hole 0.125 in")
