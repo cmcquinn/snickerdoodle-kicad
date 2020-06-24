@@ -106,7 +106,10 @@
       (reference "#PWR0114") (unit 1)
     )
     (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/97016788-c363-4899-9fd2-e117fa180900"
-      (reference "#PWR?") (unit 1)
+      (reference "#PWR0115") (unit 1)
+    )
+    (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/10bcba25-d1c8-4e5c-939c-689d92c5c57d"
+      (reference "H1") (unit 1)
     )
     (path "/a32a7713-aceb-431f-82b6-7899cc3ddd29/9079e718-c528-4c34-9bc2-2df9d91e9897"
       (reference "P2") (unit 1)
